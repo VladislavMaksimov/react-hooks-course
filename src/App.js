@@ -1,3 +1,6 @@
 import React from "react";
+import { Clicker } from "./components/Clicker/Clicker";
 
-export const App = () => <div />;
+const App = () => <Clicker />;
+
+export default App;
